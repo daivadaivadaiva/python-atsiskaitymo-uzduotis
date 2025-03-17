@@ -1,0 +1,31 @@
+Vardas,Pavarde,Amzius,Ugis,Miestas,Mokymosi istaiga,Pazymys1,Pazymys2,Pazymys3,Pazymys4
+Jonas,Petraitis,20,180,Vilnius,Vilniaus Universitetas,8,9,7,6
+Ona,Jonaite,21,175,Kaunas,Kauno Technologijos Universitetas,7,8,9,5
+Lukas,Kazlauskas,19,185,Klaipeda,Klaipedos Universitetas,9,7,6,8
+Ieva,Butkute,22,170,Siauliai,Siauliu Universitetas,6,9,8,7
+Andrius,Zukauskas,20,190,Panevezys,Vilniaus Gedimino Technikos Universitetas,8,6,7,9
+Migle,Paulauskaite,21,165,Alytus,Vilniaus Universitetas,7,9,5,8
+Tomas,Vasiliauskas,19,182,Marijampole,Kauno Technologijos Universitetas,9,8,7,6
+Greta,Stankeviciute,22,178,Utena,Klaipedos Universitetas,6,7,9,8
+Kamile,Kovalenko,20,172,Telsiai,Siauliu Universitetas,8,9,6,7
+Mantas,Maksimovas,21,188,Taurage,Vilniaus Gedimino Technikos Universitetas,7,6,8,9
+Laura,Petronyte,19,168,Vilnius,Vilniaus Universitetas,9,7,8,5
+Darius,Jonkus,22,183,Kaunas,Kauno Technologijos Universitetas,6,8,9,7
+Aiste,Kazlauskiene,20,173,Klaipeda,Klaipedos Universitetas,8,9,7,6
+Edgaras,Butkus,21,187,Siauliai,Siauliu Universitetas,7,6,8,9
+Viktorija,Zukauskaite,19,177,Panevezys,Vilniaus Gedimino Technikos Universitetas,9,8,6,7
+Justinas,Paulauskas,22,181,Alytus,Vilniaus Universitetas,6,7,9,8
+Karolina,Vasiliauskaite,20,171,Marijampole,Kauno Technologijos Universitetas,8,9,7,5
+Arturas,Stankevicius,21,186,Utena,Klaipedos Universitetas,7,6,8,9
+Simona,Kovalenko,19,166,Telsiai,Siauliu Universitetas,9,8,7,6
+Evaldas,Maksimovas,22,184,Taurage,Vilniaus Gedimino Technikos Universitetas,6,7,9,8
+Lina,Petraitiene,20,176,Vilnius,Vilniaus Universitetas,8,9,6,7
+Ramunas,Jonaitis,21,189,Kaunas,Kauno Technologijos Universitetas,7,6,8,9
+Gintare,Kazlauskaite,19,169,Klaipeda,Klaipedos Universitetas,9,8,7,5
+Marius,Butkus,22,182,Siauliai,Siauliu Universitetas,6,7,9,8
+Jurgita,Zukauskiene,20,179,Panevezys,Vilniaus Gedimino Technikos Universitetas,8,9,5,7
+Rolandas,Paulauskas,21,185,Alytus,Vilniaus Universitetas,7,6,8,9
+Dalia,Vasiliauskaite,19,174,Marijampole,Kauno Technologijos Universitetas,9,8,7,6
+Saulius,Stankevicius,22,180,Utena,Klaipedos Universitetas,6,7,9,8
+Rima,Kovalenko,20,170,Telsiai,Siauliu Universitetas,8,9,6,7
+Algirdas,Maksimovas,21,187,Taurage,Vilniaus Gedimino Technikos Universitetas,7,6,8

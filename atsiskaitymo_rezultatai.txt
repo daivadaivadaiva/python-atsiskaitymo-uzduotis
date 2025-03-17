@@ -1,0 +1,270 @@
+1. Jonas Petraitis
+   Amzius: 20
+   Ugis: 180 cm
+   Miestas: Vilnius
+   Mokymosi staiga: Vilniaus Universitetas
+   Pazymiai: [8, 9, 7, 6]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+2. Ona Jonaite
+   Amzius: 21
+   Ugis: 175 cm
+   Miestas: Kaunas
+   Mokymosi staiga: Kauno Technologijos Universitetas
+   Pazymiai: [7, 8, 9, 5]
+   Vidurkis: 7.25
+   Leidziama laikyti egzamina
+
+3. Lukas Kazlauskas
+   Amzius: 19
+   Ugis: 185 cm
+   Miestas: Klaipeda
+   Mokymosi staiga: Klaipedos Universitetas
+   Pazymiai: [9, 7, 6, 8]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+4. Ieva Butkute
+   Amzius: 22
+   Ugis: 170 cm
+   Miestas: Siauliai
+   Mokymosi staiga: Siauliu Universitetas
+   Pazymiai: [6, 9, 8, 7]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+5. Andrius Zukauskas
+   Amzius: 20
+   Ugis: 190 cm
+   Miestas: Panevezys
+   Mokymosi staiga: Vilniaus Gedimino Technikos Universitetas
+   Pazymiai: [8, 6, 7, 9]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+6. Migle Paulauskaite
+   Amzius: 21
+   Ugis: 165 cm
+   Miestas: Alytus
+   Mokymosi staiga: Vilniaus Universitetas
+   Pazymiai: [7, 9, 5, 8]
+   Vidurkis: 7.25
+   Leidziama laikyti egzamina
+
+7. Tomas Vasiliauskas
+   Amzius: 19
+   Ugis: 182 cm
+   Miestas: Marijampole
+   Mokymosi staiga: Kauno Technologijos Universitetas
+   Pazymiai: [9, 8, 7, 6]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+8. Greta Stankeviciute
+   Amzius: 22
+   Ugis: 178 cm
+   Miestas: Utena
+   Mokymosi staiga: Klaipedos Universitetas
+   Pazymiai: [6, 7, 9, 8]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+9. Kamile Kovalenko
+   Amzius: 20
+   Ugis: 172 cm
+   Miestas: Telsiai
+   Mokymosi staiga: Siauliu Universitetas
+   Pazymiai: [8, 9, 6, 7]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+10. Mantas Maksimovas
+   Amzius: 21
+   Ugis: 188 cm
+   Miestas: Taurage
+   Mokymosi staiga: Vilniaus Gedimino Technikos Universitetas
+   Pazymiai: [7, 6, 8, 9]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+11. Laura Petronyte
+   Amzius: 19
+   Ugis: 168 cm
+   Miestas: Vilnius
+   Mokymosi staiga: Vilniaus Universitetas
+   Pazymiai: [9, 7, 8, 5]
+   Vidurkis: 7.25
+   Leidziama laikyti egzamina
+
+12. Darius Jonkus
+   Amzius: 22
+   Ugis: 183 cm
+   Miestas: Kaunas
+   Mokymosi staiga: Kauno Technologijos Universitetas
+   Pazymiai: [6, 8, 9, 7]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+13. Aiste Kazlauskiene
+   Amzius: 20
+   Ugis: 173 cm
+   Miestas: Klaipeda
+   Mokymosi staiga: Klaipedos Universitetas
+   Pazymiai: [8, 9, 7, 6]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+14. Edgaras Butkus
+   Amzius: 21
+   Ugis: 187 cm
+   Miestas: Siauliai
+   Mokymosi staiga: Siauliu Universitetas
+   Pazymiai: [7, 6, 8, 9]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+15. Viktorija Zukauskaite
+   Amzius: 19
+   Ugis: 177 cm
+   Miestas: Panevezys
+   Mokymosi staiga: Vilniaus Gedimino Technikos Universitetas
+   Pazymiai: [9, 8, 6, 7]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+16. Justinas Paulauskas
+   Amzius: 22
+   Ugis: 181 cm
+   Miestas: Alytus
+   Mokymosi staiga: Vilniaus Universitetas
+   Pazymiai: [6, 7, 9, 8]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+17. Karolina Vasiliauskaite
+   Amzius: 20
+   Ugis: 171 cm
+   Miestas: Marijampole
+   Mokymosi staiga: Kauno Technologijos Universitetas
+   Pazymiai: [8, 9, 7, 5]
+   Vidurkis: 7.25
+   Leidziama laikyti egzamina
+
+18. Arturas Stankevicius
+   Amzius: 21
+   Ugis: 186 cm
+   Miestas: Utena
+   Mokymosi staiga: Klaipedos Universitetas
+   Pazymiai: [7, 6, 8, 9]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+19. Simona Kovalenko
+   Amzius: 19
+   Ugis: 166 cm
+   Miestas: Telsiai
+   Mokymosi staiga: Siauliu Universitetas
+   Pazymiai: [9, 8, 7, 6]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+20. Evaldas Maksimovas
+   Amzius: 22
+   Ugis: 184 cm
+   Miestas: Taurage
+   Mokymosi staiga: Vilniaus Gedimino Technikos Universitetas
+   Pazymiai: [6, 7, 9, 8]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+21. Lina Petraitiene
+   Amzius: 20
+   Ugis: 176 cm
+   Miestas: Vilnius
+   Mokymosi staiga: Vilniaus Universitetas
+   Pazymiai: [8, 9, 6, 7]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+22. Ramunas Jonaitis
+   Amzius: 21
+   Ugis: 189 cm
+   Miestas: Kaunas
+   Mokymosi staiga: Kauno Technologijos Universitetas
+   Pazymiai: [7, 6, 8, 9]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+23. Gintare Kazlauskaite
+   Amzius: 19
+   Ugis: 169 cm
+   Miestas: Klaipeda
+   Mokymosi staiga: Klaipedos Universitetas
+   Pazymiai: [9, 8, 7, 5]
+   Vidurkis: 7.25
+   Leidziama laikyti egzamina
+
+24. Marius Butkus
+   Amzius: 22
+   Ugis: 182 cm
+   Miestas: Siauliai
+   Mokymosi staiga: Siauliu Universitetas
+   Pazymiai: [6, 7, 9, 8]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+25. Jurgita Zukauskiene
+   Amzius: 20
+   Ugis: 179 cm
+   Miestas: Panevezys
+   Mokymosi staiga: Vilniaus Gedimino Technikos Universitetas
+   Pazymiai: [8, 9, 5, 7]
+   Vidurkis: 7.25
+   Leidziama laikyti egzamina
+
+26. Rolandas Paulauskas
+   Amzius: 21
+   Ugis: 185 cm
+   Miestas: Alytus
+   Mokymosi staiga: Vilniaus Universitetas
+   Pazymiai: [7, 6, 8, 9]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+27. Dalia Vasiliauskaite
+   Amzius: 19
+   Ugis: 174 cm
+   Miestas: Marijampole
+   Mokymosi staiga: Kauno Technologijos Universitetas
+   Pazymiai: [9, 8, 7, 6]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+28. Saulius Stankevicius
+   Amzius: 22
+   Ugis: 180 cm
+   Miestas: Utena
+   Mokymosi staiga: Klaipedos Universitetas
+   Pazymiai: [6, 7, 9, 8]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+29. Rima Kovalenko
+   Amzius: 20
+   Ugis: 170 cm
+   Miestas: Telsiai
+   Mokymosi staiga: Siauliu Universitetas
+   Pazymiai: [8, 9, 6, 7]
+   Vidurkis: 7.5
+   Leidziama laikyti egzamina
+
+30. Algirdas Maksimovas
+   Amzius: 21
+   Ugis: 187 cm
+   Miestas: Taurage
+   Mokymosi staiga: Vilniaus Gedimino Technikos Universitetas
+   Pazymiai: [7, 6, 8]
+   Vidurkis: 7.0
+   Leidziama laikyti egzamina
+
